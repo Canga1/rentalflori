@@ -19,7 +19,7 @@ RentalFlori is designed to provide a user-friendly experience for car rental boo
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Django, Python
 - **Database**: SQLite (can be switched to PostgreSQL for production)
-- **Deployment**: Hosted on a web server, such as Heroku or a VPS (for production)
+
 
 ## Installation
 
@@ -60,9 +60,6 @@ After setting up the project, you can use the application as follows:
 - **Make a Reservation**: Choose your rental dates and reserve a vehicle.
 - **Manage Reservations**: Users can view or modify their bookings.
 
-## Screenshots
-
-*Include screenshots of the main pages or features of the website here to give potential employers a visual understanding of the project.*
 
 ## Future Enhancements
 
